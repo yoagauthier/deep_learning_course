@@ -1,2 +1,2 @@
-# deep_learning_course
-Repo containing homewokr for the deep learning course @ CentraleSupelec
+# Deep Learning Course
+Repo containing Keras implementations of tensorflow models for the deep learning course @ CentraleSupelec
